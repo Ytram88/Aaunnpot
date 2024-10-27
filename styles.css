@@ -1,0 +1,26 @@
+.custom-container {
+    /* max-width: fit-content; */
+    background-color: white;
+    padding: 15px 0px;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    height: auto;
+}
+
+.container {
+    transition: 0.2s ease-in-out;
+}
+
+textarea {
+    height: 50px;
+}
+
+body {
+    background-color: whitesmokes;
+}
+
+.form-check {
+    margin-bottom: 5px;
+}
